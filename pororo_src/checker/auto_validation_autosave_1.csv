@@ -1,0 +1,12 @@
+json_file,image_file,ocr_list,ocr_result,ocr_count,ocr_result_fail_count,boundingbox_result,table_type_result,description_result,auto_cropped_ocr_texts,auto_entire_ocr_texts
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,길찾기,PASS,1,0,PASS,PASS,PASS,"ocr 추출 결과:['길찾기'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개","' 위치 안내전화, 수비면 검마산길 191 길찾기, 054-682-9009, 연중개방(개방시간 : 9시~18시 ), 이용시간, 휴무일 입장료, 연중무휴 성인(1,000원) 청소년(600원) 어린이(300원), 주차시설, 주차요금: 경차1,500원, 중 소형3,000원, 대형5,000원 승용차 : 50 대 가 능, ' 애완동물동반 ' 홈페이지 ' 추천수, 불가능, http 'south.forest.go.kr"
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,위치 수비면 검마산길 191,PASS,4,0,FAIL,PASS,,"ocr 추출 결과:['위치', '수비면 검마산길 191'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,안내전화 054-682-9009,PASS,2,0,FAIL,PASS,,"ocr 추출 결과:['안내전화', '054-682-9009'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,이용시간 연중개방(개방시간 : 9시~18시),PASS,4,0,FAIL,PASS,,"ocr 추출 결과:['이용시간', '연중개방(개방시간 : 9시~18시'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,휴무일 연중무휴,PASS,2,0,FAIL,PASS,,"ocr 추출 결과:['휴무일', '연중무휴'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,"입장료 성인(1,000원) 청소년(600원) 어린이(300원)",PASS,4,0,FAIL,PASS,,"ocr 추출 결과:['입장료', '성인(1,000원) 청소년(600원) 어린이(300원('] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,"주차시설 주차요금 : 경차:1,500원, 중·소형:3,000원, 대형:5,000원 / 승용차 : 50대 가",PASS,11,3,FAIL,PASS,,"ocr 추출 결과:['주차시설', '주차요금 : 경차 1,500원, 중 소형,3,000원, 대형5,000원 승용차 : 50 대 가'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,애완동물동반 불가능,PASS,2,0,FAIL,PASS,,"ocr 추출 결과:['애완동물동반', '불가능'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,홈페이지 http://south.forest.go.kr,PASS,2,1,FAIL,PASS,,"ocr 추출 결과:['홈페이지', 'httpy south.forest.go.kr'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 1개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,추천수 6,PASS,2,1,FAIL,PASS,,"ocr 추출 결과:['추천수'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 1개",
+CTGMA0101GS00333001.json,CTGMA0101GS00333001.png,능,PASS,1,0,PASS,PASS,,"ocr 추출 결과:['능'] / 특수문자 및 중국어,일본어 등 제외 오타 수: 0개",

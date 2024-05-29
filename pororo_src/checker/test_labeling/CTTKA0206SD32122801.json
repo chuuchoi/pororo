@@ -1,0 +1,235 @@
+{
+	"info": {
+		"year": "2023",
+		"version": 1.0,
+		"date_created": "2023-11-16 13:40:15",
+		"date_modified": "2023-11-21 13:52:28",
+		"captioningYN": "N"
+	},
+	"origin_image": {
+		"name": "A0206SD321228.jpg",
+		"id": "A0206SD321228",
+		"format": "JPG",
+		"size": 577.09,
+		"width": 1280,
+		"height": 720,
+		"address": "경기 고양시 일산동구 마두동 816",
+		"gps": "37.66148463, 126.7744652",
+		"date_captured": "2023-11-21 13:52:28",
+		"data_source": "현장수집",
+		"tour_name": "고양아람누리",
+		"tour_main_category": "인문",
+		"tour_sub_category": "문화시설",
+		"camera_model": "Samsung SM-F707N"
+	},
+	"source_image": {
+		"name": "CTTKA0206SD32122801.png",
+		"id": "CTTKA0206SD32122801",
+		"format": "PNG",
+		"size": 577088.0,
+		"width": 773,
+		"height": 432,
+		"main_category": "도표",
+		"sub_category": "입장권",
+		"unit": 0,
+		"legend": 0,
+		"ocr": [
+			[
+				"[ {  \"x\": 656  ,\"y\": 290}, {  \"x\": 732  ,\"y\": 290}, {  \"x\": 732  ,\"y\": 306}, {  \"x\": 656  ,\"y\": 306}]",
+				"245,000"
+			]
+		]
+	},
+	"annotations": {
+		"ocr_labels": [
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 38,
+					"y": 75,
+					"width": 467,
+					"height": 26
+				},
+				"_class": "제목",
+				"text": "창작뮤지컬 블루헬멧 메이사의 노래 - 고양",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 38,
+					"y": 150,
+					"width": 150,
+					"height": 18
+				},
+				"_class": "텍스트",
+				"text": "1층 C블럭 17열 5번",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 37,
+					"y": 172,
+					"width": 267,
+					"height": 20
+				},
+				"_class": "텍스트",
+				"text": "일시 2022년 8월 26일(금) 19:30",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 36,
+					"y": 195,
+					"width": 219,
+					"height": 18
+				},
+				"_class": "텍스트",
+				"text": "장소 고양아람누리 아람극장",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 36,
+					"y": 265,
+					"width": 101,
+					"height": 16
+				},
+				"_class": "텍스트",
+				"text": "주최 육군본부",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 36,
+					"y": 285,
+					"width": 215,
+					"height": 17
+				},
+				"_class": "텍스트",
+				"text": "주관 ㈜하늘이엔티, ㈜하우팜즈",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 36,
+					"y": 305,
+					"width": 117,
+					"height": 15
+				},
+				"_class": "텍스트",
+				"text": "제작 ㈜하우팜즈",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 36,
+					"y": 323,
+					"width": 214,
+					"height": 16
+				},
+				"_class": "텍스트",
+				"text": "문의 1577-3363 클럽서비스㈜",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 391,
+					"y": 137,
+					"width": 115,
+					"height": 13
+				},
+				"_class": "텍스트",
+				"text": "No.2530922011",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 394,
+					"y": 219,
+					"width": 22,
+					"height": 17
+				},
+				"_class": "텍스트",
+				"text": "A석",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 396,
+					"y": 238,
+					"width": 63,
+					"height": 17
+				},
+				"_class": "텍스트",
+				"text": "60,000원",
+				"attribute": "사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 394,
+					"y": 313,
+					"width": 75,
+					"height": 15
+				},
+				"_class": "텍스트",
+				"text": "2022/8/26",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 524,
+					"y": 46,
+					"width": 27,
+					"height": 99
+				},
+				"_class": "텍스트",
+				"text": "Goyang",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 526,
+					"y": 154,
+					"width": 26,
+					"height": 68
+				},
+				"_class": "텍스트",
+				"text": "Aram",
+				"attribute": "미사용"
+			},
+			{
+				"type": "bbox",
+				"bbox": {
+					"x": 527,
+					"y": 234,
+					"width": 26,
+					"height": 52
+				},
+				"_class": "텍스트",
+				"text": "Nuri",
+				"attribute": "미사용"
+			}
+		],
+		"tables": [
+			{
+				"table": []
+			}
+		]
+	},
+	"descriptions": {
+		"description": "다음은 창작뮤지컬 블루헬멧 메이사의 노래 - 고양에 대한 이미지이고,\n1층 C블럭 17열 5번 일시 2022년 8월 26일(금) 19:30 장소 고양아람누리 아람극장 No.2530922011 A석 60,000원에 대한 정보를 담고 있습니다."
+	}
+}
